@@ -1,12 +1,10 @@
-template
+ansible-role-borg-repo
 =========
 
-Template for Ansible role monorepos
+An Ansible role to set up Borg repository(-ies) 
 
 Requirements
 ------------
-
-None
 
 Role Variables
 --------------

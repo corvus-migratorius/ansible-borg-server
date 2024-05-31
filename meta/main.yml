@@ -1,10 +1,10 @@
 ---
 galaxy_info:
-  role_name: "template"
+  role_name: "ansible_role_borg_repos"
   namespace: genlab
   author: "Alexander Gorelyshev"
   company: "Genlab, LLC"
-  description: ""
+  description: "Set up Borg repository(-ies) "
   license: "MIT"
   min_ansible_version: "2.1"
 
