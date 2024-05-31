@@ -5,7 +5,7 @@
 
 - name: "Install packages"
   ansible.builtin.package:
-    name: 
+    name:
       - borgbackup
       - openssh-server
     state: present
