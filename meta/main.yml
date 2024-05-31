@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: "ansible_role_borg_repos"
+  role_name: "ansible_borg_server"
   namespace: genlab
   author: "Alexander Gorelyshev"
   company: "Genlab, LLC"

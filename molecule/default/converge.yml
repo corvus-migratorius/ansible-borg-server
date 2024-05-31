@@ -2,6 +2,6 @@
 - name: Converge
   hosts: all
   roles:
-    - role: genlab.ansible_role_borg_repos
+    - role: genlab.ansible_borg_server
       borg_secrets_path: "secrets.yaml"
       hide_logs: false

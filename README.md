@@ -1,4 +1,4 @@
-ansible-role-borg-repo
+ansible_borg_server
 =========
 
 An Ansible role to set up Borg repository(-ies) 
